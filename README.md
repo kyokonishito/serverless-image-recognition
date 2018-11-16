@@ -1,1 +1,1 @@
-#Watson Visual Regnitionを使ったプログラムをサーバーレスで動かそう
+# Watson Visual Regnitionを使ったプログラムをサーバーレスで動かそう
